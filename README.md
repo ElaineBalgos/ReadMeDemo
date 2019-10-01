@@ -5,7 +5,8 @@
 This is a Node-based build that explores the last 15 years (or so) of the Marvel Cimenatic Universe. This build uses the IMDb API to mine data about each film, and allows the user to ass a review for each selection.
 
 ### Getting Started
-This sis a basic HTML / SS / Javascript build. If you don't know what any of these are, start here : www.mozzilla.com 
+This sis a basic HTML / SS / Javascript build. If you don't know what any of these are, start here : [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn)
+
 
 Clone this to the location of your chice, open in your favourite editor and hack away!
 
@@ -13,7 +14,10 @@ Clone this to the location of your chice, open in your favourite editor and hack
 Just and editor and Git!
 
 ## Authors
-team members got here
+1. Trevor Van Rys - Front End Dev
+2. Justin Brunner - Back End Dev
+3. Joe Komendi - Video / Motion
+4. Jarrod Osterback - Design
 
 ## License
 This project is licensed under the MIT License.
